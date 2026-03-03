@@ -1,1 +1,1 @@
-# web_tasar-m2026
+# web_tasarim2026
